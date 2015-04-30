@@ -35,7 +35,7 @@ Cranked "Max FPS" to 24.
 
 __GIF Brewery @ 10FPS (3.3 MB)__ I ticked the "Automatically Calculate Count & Delay" box under "GIF Properties" and left it at the default 10 FPS.
 
-![GIF Brewery @ 24FPS/Adaptive Palette (914 KB)](/assets/gifbrewery-10fps.gif?raw=true)
+![GIF Brewery @ 24FPS/Adaptive Palette (914 KB)](/assets/gifbrewery-24fps.gif?raw=true)
 
 __GIF Brewery @ 24FPS/Adaptive Palette (914 KB)__ I cranked the FPS to 24 FPS and also ticked "Reduce the number of colors in GIF" and selected an Adaptive palette with 256 colors.
 
