@@ -11,7 +11,8 @@ _[OG video file: gif-experiment.mov (920 KB)](/assets/gif-experiment.mov?raw=tru
 
 In my opinion, the winners based on a sweet spot of file size and image quality for this particular challenge were:
 
-1) [Alex Sexton's gif creation workflow](https://gist.github.com/SlexAxton/4989674), if you're comfortable in terminal
+1) [Alex Sexton's gif creation workflow](https://gist.github.com/SlexAxton/4989674), if you're comfortable in the terminal
+
 2) [GIF Brewery](http://gifbrewery.com), if you want a GUI and as long as you're using an adaptive color palette
 
 
@@ -56,11 +57,11 @@ __Gifrocket @ default settings (2.7 MB)__ Adjusted settings for output width to 
 ### [Hardcore G(if) Shit](https://gist.github.com/SlexAxton/4989674)
 [Alex Sexton's](https://gist.github.com/SlexAxton) gif creation workflow
 
-![Gifify @ default settings (375 KB)](/assets/gifbrewery-10fps.gif?raw=true)
+![Gifify @ default settings (375 KB)](/assets/gifify.gif?raw=true)
 
 __Gifify @ default settings (375 KB)__ Simply running `gifify gif-experiment.mov`.
 
-![Gifify with `--good` flag (693 KB)](/assets/gifbrewery-10fps.gif?raw=true)
+![Gifify with `--good` flag (693 KB)](/assets/gifify-good.gif?raw=true)
 
 __Gifify with `--good` flag (693 KB)__ Went in for better quality with `gifify gif-experiment.mov --good`.
 
